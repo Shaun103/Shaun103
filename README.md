@@ -2,7 +2,6 @@
 - 👀 I’m interested in programming!
 - 🌱 I’m currently learning C++, Python, SQL!
 - 💞️ I’m looking to collaborate on programming projects!
-- 📫 How to reach me krishaun.transou2@gmail.com
 
 
 
